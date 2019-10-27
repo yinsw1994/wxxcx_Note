@@ -1,0 +1,20 @@
+view —— 类似div元素，块元素
+text —— 类似span的元素,行内元素
+button —— 类似button
+scroll-view 滚动视图
+banner —— banner视图
+icon —— icon图标
+image <image src="
+video <video src="
+audio <audio src="
+
+navigator —— 类似a链接 <navigator url="...">
+form
+input
+button
+radio/checkbox
+picker
+
+map - 地图
+canvas - 绘图
+ad - 广告
